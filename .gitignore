@@ -1,16 +1,8 @@
-# Bootstrap
-app/bootstrap*
-
-# Symfony directories
+# Composer directories
 vendor/*
-*/logs/*
-*/cache/*
-web/uploads/*
-web/bundles/*
 
 # Configuration files
-app/config/parameters.ini
-app/config/parameters.yml
+config/podcasts.yml
 
 # DevFiles
 nbproject/
