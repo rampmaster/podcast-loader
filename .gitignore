@@ -14,8 +14,8 @@ app/config/parameters.yml
 
 # DevFiles
 nbproject/
-cache/*.spc
+#cache/*.spc
 composer.lock
 
 # System files
-download/*.mp3
+#download/*.mp3
