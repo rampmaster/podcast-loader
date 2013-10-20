@@ -1,21 +1,13 @@
-## YAML Template.
+# Definición de archivos para la recuperación de podcasts para radios online
+# Debe cumplirse los estandares de yaml reemplazando los datos de ejemplo por
+# el contenido respectivo
 ---
-hispano42:
-  name: Informativo para Hispoamerica - 42'
-  url: http://media01.vatiradio.va/podmaker/podcaster.aspx?c=ispanoamerica_4
-  author: RadioVaticano
-  
-hispano30:
-  name: Informativo para Hispanoamerica - 30'
-  url: http://media01.vatiradio.va/podmaker/podcaster.aspx?c=ispanoamerica_1
-  author: RadioVaticano
-  
-santorosario:
-  name: El Santo Rosario
-  url: http://feeds.feedburner.com/santorosario
-  author: ACI Prensa
-  
-santodeldia:
-  name: Santo del día
-  url: http://feeds.feedburner.com/santodeldia
-  author: ACI Prensa
+<slug1>:
+  name: <Podcast program name>
+  url: <Podcast URL>
+  author: <Podcast Author>
+
+<slug2>:
+  name: <Podcast program name>
+  url: <Podcast URL>
+  author: <Podcast Author>  
