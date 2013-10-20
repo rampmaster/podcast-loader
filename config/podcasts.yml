@@ -1,0 +1,21 @@
+## YAML Template.
+---
+hispano42:
+  name: Informativo para Hispoamerica - 42'
+  url: http://media01.vatiradio.va/podmaker/podcaster.aspx?c=ispanoamerica_4
+  author: RadioVaticano
+  
+hispano30:
+  name: Informativo para Hispanoamerica - 30'
+  url: http://media01.vatiradio.va/podmaker/podcaster.aspx?c=ispanoamerica_1
+  author: RadioVaticano
+  
+santorosario:
+  name: El Santo Rosario
+  url: http://feeds.feedburner.com/santorosario
+  author: ACI Prensa
+  
+santodeldia:
+  name: Santo del día
+  url: http://feeds.feedburner.com/santodeldia
+  author: ACI Prensa

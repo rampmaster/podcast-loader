@@ -1,0 +1,6 @@
+{
+    "require": {
+        "simplepie/simplepie": "dev-master",
+        "symfony/yaml": "dev-master"
+    }
+}
