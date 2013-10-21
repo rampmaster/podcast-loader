@@ -46,7 +46,6 @@ $item = $feed->get_item();
  
 echo $item->get_enclosure(0)->get_link( ).PHP_EOL;
 
-//php index.php --slug=<slug_del_config> | wget -i --O /usr/local/centovacast/var/vhosts/radiofranja/var/spool/media/arcachile/noticiarioarca.mp3
 
 
 ?>
