@@ -3,11 +3,13 @@ podcast-loader
 
 Script de apoyo para recuperar el ultimo podcast via RSS
 
-== Metodo de uso ==
+Metodo de uso 
+-------------------------
 
 php index.php --slug=<slug_del_config> | wget -i - -O <ruta_de_destino>
 
-== TODO ==
+TODO
+-------------------------
 
 * Enviar información a carpeta de descarga como fallbacl
 * Generar versión web y cli independientes
