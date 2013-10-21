@@ -25,7 +25,7 @@ if(!$slug){
   die('Not exist slug paramets');
 }
 
-$config = Yaml::parse(__DIR__.'config/podcasts.yml');
+$config = Yaml::parse(file_get_contents(__DIR__.'config/podcasts.yml'));
 
 if(!isset($config[$slug])){
     die('Slug not exists');
